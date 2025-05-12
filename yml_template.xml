@@ -1,0 +1,36 @@
+<yml_catalog date="2025-05-12T12:00:00">
+  <shop>
+    <name>Название вашего магазина</name>
+    <company>ООО "Пример"</company>
+    <url>https://example.com</url>
+
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+
+    <categories>
+      <category id="1">Цветы</category>
+      <category id="2" parentId="1">Букеты из роз</category>
+    </categories>
+
+    <offers>
+      <offer id="123" available="true">
+        <name>Букет из 11 роз Red Naomi</name>
+        <price>2990</price>
+        <oldprice>3490</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://example.com/images/rose1.jpg</picture>
+        <picture>https://example.com/images/rose1_alt.jpg</picture>
+        <description>Роскошный букет из 11 красных роз Red Naomi, оформленный в крафт бумагу.</description>
+        <qty>5</qty>
+        <minorder>1</minorder>
+        <weight>0.8</weight>
+        <param name="Размер">60 х 30 х 30 см</param>
+        <consist name="Роза Red Naomi" unit="шт">11</consist>
+        <consist name="Лента атласная" unit="шт">1</consist>
+        <consist name="Упаковка крафт" unit="шт">1</consist>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
