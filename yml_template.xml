@@ -16,14 +16,14 @@
     <offers>
       <offer id="123" available="true">
         <name>Букет из 11 роз Red Naomi</name>
-        <price>2990</price>
+        <price>3500</price>
         <oldprice>11000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://example.com/images/rose1.jpg</picture>
         <picture>https://example.com/images/rose1_alt.jpg</picture>
         <description>Роскошный букет из 11 красных роз Red Naomi, оформленный в крафт бумагу.</description>
-        <qty>5</qty>
+        <qty>10</qty>
         <minorder>1</minorder>
         <weight>0.8</weight>
         <param name="Размер">60 х 30 х 30 см</param>
