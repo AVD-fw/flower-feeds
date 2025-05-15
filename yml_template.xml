@@ -2,7 +2,7 @@
   <shop>
     <name>Название вашего магазина</name>
     <company>ООО "Пример"</company>
-    <url>https://example.com</url>
+    <url>https://example22222.com</url>
 
     <currencies>
       <currency id="RUR" rate="1"/>
@@ -17,7 +17,7 @@
       <offer id="123" available="true">
         <name>Букет из 11 роз Red Naomi</name>
         <price>3500</price>
-        <oldprice>20000</oldprice>
+        <oldprice>100000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://example.com/images/rose1.jpg</picture>
