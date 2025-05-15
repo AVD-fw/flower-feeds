@@ -17,7 +17,7 @@
       <offer id="123" available="true">
         <name>Букет из 11 роз Red Naomi</name>
         <price>3500</price>
-        <oldprice>15000</oldprice>
+        <oldprice>20000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
         <picture>https://example.com/images/rose1.jpg</picture>
