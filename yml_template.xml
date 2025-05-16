@@ -16,7 +16,7 @@
     <offers>
       <offer id="123" available="true">
         <name>Роза Ред Наоми 50 см.</name>
-        <price>50</price>
+        <price>60</price>
         <oldprice></oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
